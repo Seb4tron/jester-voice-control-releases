@@ -1,8 +1,8 @@
 {
-  "version": "0.5.12",
+  "version": "0.5.13",
   "released": "2026-10-04",
-  "url": "https://github.com/Seb4tron/jester-voice-control-releases/releases/download/v0.5.12/jester-voice-control-0.5.12.zip",
-  "page": "https://github.com/Seb4tron/jester-voice-control-releases/releases/tag/v0.5.12",
-  "sha256": "c2f01a4751aafaeefc849cf739dd51f743a3e0b5ab23c4f4866e142a4c4f7e3c",
-  "notes": "0.5.12 - release pipeline, update check and leaner tester ZIP"
+  "url": "https://github.com/Seb4tron/jester-voice-control-releases/releases/download/v0.5.13/jester-voice-control-0.5.13.zip",
+  "page": "https://github.com/Seb4tron/jester-voice-control-releases/releases/tag/v0.5.13",
+  "sha256": "8ba68bf3862e486c799623e1416cd9b7e43c26e879c596239d7a1cccc5f05105",
+  "notes": "0.5.13 - automatic DCS bridge installation (install_bridge.bat) with backup and uninstall"
 }
