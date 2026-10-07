@@ -1,8 +1,8 @@
 {
-  "version": "0.5.13",
-  "released": "2026-10-04",
-  "url": "https://github.com/Seb4tron/jester-voice-control-releases/releases/download/v0.5.13/jester-voice-control-0.5.13.zip",
-  "page": "https://github.com/Seb4tron/jester-voice-control-releases/releases/tag/v0.5.13",
-  "sha256": "8ba68bf3862e486c799623e1416cd9b7e43c26e879c596239d7a1cccc5f05105",
-  "notes": "0.5.13 - automatic DCS bridge installation (install_bridge.bat) with backup and uninstall"
+  "version": "0.5.14",
+  "released": "2026-10-07",
+  "url": "https://github.com/Seb4tron/jester-voice-control-releases/releases/download/v0.5.14/jester-voice-control-0.5.14.zip",
+  "page": "https://github.com/Seb4tron/jester-voice-control-releases/releases/tag/v0.5.14",
+  "sha256": "2ed8c48c1c453cb28b1654d5a4ff713f7cfe430daeeef98048158ea62bd98da4",
+  "notes": "0.5.14 - optional readback before entering frequencies and coordinates"
 }
