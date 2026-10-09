@@ -1,8 +1,8 @@
 {
-  "version": "0.5.15",
+  "version": "0.5.16",
   "released": "2026-10-09",
-  "url": "https://github.com/Seb4tron/jester-voice-control-releases/releases/download/v0.5.15/jester-voice-control-0.5.15.zip",
-  "page": "https://github.com/Seb4tron/jester-voice-control-releases/releases/tag/v0.5.15",
-  "sha256": "ebdbce16879426a015b1c0d3cf46360f500998a053d3c80ccc4c7f993e9a052c",
-  "notes": "v0.5.15 timing diagnostics"
+  "url": "https://github.com/Seb4tron/jester-voice-control-releases/releases/download/v0.5.16/jester-voice-control-0.5.16.zip",
+  "page": "https://github.com/Seb4tron/jester-voice-control-releases/releases/tag/v0.5.16",
+  "sha256": "d45b8ebf8396bd09057aea33295c94fe4de738765e3a721f4ab0964c68acfd90",
+  "notes": "v0.5.16 simpler install: private Python via uv, Groq key check"
 }
