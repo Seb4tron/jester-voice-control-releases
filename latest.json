@@ -1,8 +1,8 @@
 {
-  "version": "0.5.14",
-  "released": "2026-10-07",
-  "url": "https://github.com/Seb4tron/jester-voice-control-releases/releases/download/v0.5.14/jester-voice-control-0.5.14.zip",
-  "page": "https://github.com/Seb4tron/jester-voice-control-releases/releases/tag/v0.5.14",
-  "sha256": "2ed8c48c1c453cb28b1654d5a4ff713f7cfe430daeeef98048158ea62bd98da4",
-  "notes": "0.5.14 - optional readback before entering frequencies and coordinates"
+  "version": "0.5.15",
+  "released": "2026-10-09",
+  "url": "https://github.com/Seb4tron/jester-voice-control-releases/releases/download/v0.5.15/jester-voice-control-0.5.15.zip",
+  "page": "https://github.com/Seb4tron/jester-voice-control-releases/releases/tag/v0.5.15",
+  "sha256": "ebdbce16879426a015b1c0d3cf46360f500998a053d3c80ccc4c7f993e9a052c",
+  "notes": "v0.5.15 timing diagnostics"
 }
