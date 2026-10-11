@@ -3,8 +3,15 @@
 Talk to Jester, the AI RIO of the Heatblur F-14 Tomcat in DCS World, in plain
 English. This repository only hosts the downloadable releases.
 
-**Download:** see the [latest release](https://github.com/Seb4tron/jester-voice-control-releases/releases/latest)
-and follow the `INSTALL.md` inside the ZIP.
+**Download:** open the [latest release](https://github.com/Seb4tron/jester-voice-control-releases/releases/latest)
+and download **`jester-voice-control-<version>.zip`** under *Assets*. Then follow
+the `INSTALL.md` inside the ZIP.
+
+> **Don't use the "Source code (zip)" or "Source code (tar.gz)" links** that
+> GitHub adds below it, and don't use the green *Code* button of this page: they
+> only contain this README and `latest.json`, not the program. The program is the
+> ZIP file named above. This page deliberately shows almost nothing; the actual
+> files are attached to the releases.
 
 > **Unofficial.** A community project, not affiliated with, endorsed by or
 > supported by Heatblur Simulations or Eagle Dynamics. The packages contain no
