@@ -1,8 +1,8 @@
 {
-  "version": "0.5.16",
-  "released": "2026-10-09",
-  "url": "https://github.com/Seb4tron/jester-voice-control-releases/releases/download/v0.5.16/jester-voice-control-0.5.16.zip",
-  "page": "https://github.com/Seb4tron/jester-voice-control-releases/releases/tag/v0.5.16",
-  "sha256": "d45b8ebf8396bd09057aea33295c94fe4de738765e3a721f4ab0964c68acfd90",
-  "notes": "v0.5.16 simpler install: private Python via uv, Groq key check"
+  "version": "0.5.17",
+  "released": "2026-10-11",
+  "url": "https://github.com/Seb4tron/jester-voice-control-releases/releases/download/v0.5.17/jester-voice-control-0.5.17.zip",
+  "page": "https://github.com/Seb4tron/jester-voice-control-releases/releases/tag/v0.5.17",
+  "sha256": "2be4ba3e7de67116de5a45bde9d0ba4891009ff3239710a6574cd10441f0b46f",
+  "notes": "v0.5.17 radar modes via Jester wheel, Groq fallback models"
 }
